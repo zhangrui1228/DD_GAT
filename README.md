@@ -1,8 +1,17 @@
 # Real-Time Bit Performance Monitoring: A Dual-Dimensional Graph Attention Network
 
 
-
 This repository contains the implementation of a real-time bit performance monitoring framework based on a **Dual-Dimensional Graph Attention Network (DD-GAT)** with multivariate time-series drilling data.
+
+
+
+## 📄 Citation
+
+If you use this code in your research, please cite our paper:
+
+```bibtex
+Zhang, Rui and Zhu, Zhaopeng and Ye, Shanlin and Song, Xianzhi and Wu, Yi and Li, Bingxuan and Liu, Haotian and Bijeljic, Branko and Blunt, Martin J. "Real-Time Bit Performance Monitoring: A Dual-Dimensional Graph Attention Network with Multivariate Time-Series Data." Paper presented at the SPE Annual Technical Conference and Exhibition, Houston, TX, USA, October 2025.
+```
 
 
 
@@ -72,14 +81,6 @@ The framework consists of three core modules:
 - Seaborn
 
 ## 
-
-## 📄 Citation
-
-If you use this code in your research, please cite our paper:
-
-```bibtex
-Zhang, Rui and Zhu, Zhaopeng and Ye, Shanlin and Song, Xianzhi and Wu, Yi and Li, Bingxuan and Liu, Haotian and Bijeljic, Branko and Blunt, Martin J. "Real-Time Bit Performance Monitoring: A Dual-Dimensional Graph Attention Network with Multivariate Time-Series Data." Paper presented at the SPE Annual Technical Conference and Exhibition, Houston, TX, USA, October 2025.
-```
 
 
 
